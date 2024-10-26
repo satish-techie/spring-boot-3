@@ -1,4 +1,4 @@
-package com.satish.techie.api;
+package com.satish.techie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
